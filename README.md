@@ -1,3 +1,4 @@
+#Hand Controlled Cursor
 - An application programmed in PyCharm using Python to capture live video inputs of the user’s hand gesture through a webcam using OpenCV 
 
 - The program then uses the hand-recognition framework by Mediapipe to track the user’s gesture, hand’s landmark and localize 21 coordinates of the hands
